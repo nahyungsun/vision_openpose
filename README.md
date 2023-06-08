@@ -1,5 +1,5 @@
 # vision_openpose
-이미지 분류 문제를 eva 모델과 위해 open pose()를 적용하였습니다.
+이미지 분류 문제를 해결하기위해 사전학습된 eva 모델과 위해 사전학습된 VitPose(vison transformer 기반 open pose)를 적용하였습니다.
 
 # Data 예시 
 ##### 원본  
